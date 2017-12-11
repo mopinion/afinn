@@ -699,8 +699,8 @@ amortecimento	-2
 impasse	-2
 mortal	-3
 ensurdecedor	-1
-caro	2
-muito caro	3
+caro	-2
+muito caro	-3
 morte	-2
 mortes	-2
 dívida	-2
