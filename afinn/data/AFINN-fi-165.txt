@@ -14,7 +14,7 @@ kyytiin	1
 aborted	-1
 keskeyttää	-1
 poissaolevalla	-1
-poissa	olevat	-1
+poissa olevat	-1
 vapauttaa	2
 absolved	2
 absolves	2
@@ -3221,11 +3221,11 @@ tyytyväinen	2
 tyytyväinen	2
 hyvinvointi	2
 well-championed	3
-hyvin	kehittynyt	2
+hyvin kehittynyt	2
 vakiintunut	2
-hyvin	keskittynyt	2
-hyvin	hoidettu	2
-hyvin	suhteutettu	2
+hyvin keskittynyt	2
+hyvin hoidettu	2
+hyvin suhteutettu	2
 hikoileva	1
 kalkki	-3
 huora	-4
