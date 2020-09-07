@@ -3064,3 +3064,4 @@ lekker	3
 ijveraar	-2
 ijveraars	-2
 ijverig	2
+uitverkocht	-1
