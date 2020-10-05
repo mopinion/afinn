@@ -2037,7 +2037,7 @@ ciocni	-2
 calamitate	-2
 bătăuș	-2
 bland	-2
-alergic
+alergic	-2
 ca	2
 mare	2
 asemenea	2
